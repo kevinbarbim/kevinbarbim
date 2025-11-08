@@ -22,7 +22,7 @@
 
 <h3 align="left">Conecte-se comigo!</h3>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=F7DF1E)](https://www.linkedin.com/in/kevinbarbim/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-F7DF1E?style=for-the-badge&logo=linkedin&logoColor=000)](https://www.linkedin.com/in/kevinbarbim/)
 <h3 align="left">Minha Stack ~</h3>
 
 <div align="left">
