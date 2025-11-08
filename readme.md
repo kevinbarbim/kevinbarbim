@@ -18,7 +18,7 @@
 #
 
 
-<img align="right" height="165px" alt="" src="./pixel.gif">
+<img align="right" height="155px" alt="" src="./pixel.gif">
 
 <h3 align="left">Conecte-se comigo!</h3>
 
