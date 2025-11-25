@@ -53,7 +53,7 @@
   <br>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevinbarbim&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&bg_color=00000000&hide_border=true&title_color=F0DB4F&icon_color=F0DB4F&text_color=FFFFFF"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinbarbim&layout=compact&langs_count=7&theme=github_dark&bg_color=00000000&hide_border=true&title_color=F0DB4F&text_color=FFFFFF"/>
-</div>
+</div> 
 
 
 #
