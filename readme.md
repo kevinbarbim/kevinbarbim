@@ -9,7 +9,7 @@
 #
 
 <p align="center">
-  👨‍💻 Desenvolvedor Fullstack com foco em Front-End.<br>
+  👨‍💻 Desenvolvedor com foco em Back-End.<br>
   🎓 Formado em Desenvolvimento de Sistemas (ETEC) e cursando Informática para Negócios (FATEC).<br>
   💡 Sempre aprendendo, criando e evoluindo.<br>
   📍 São José do Rio Preto – SP.
